@@ -1,4 +1,5 @@
 # ghostPruebaAutomatizadas
+# Reportar una incidencia
 Este repositorio contiene a Ghost que será usado para realizar pruebas automatizadas sobre el 
 
 Resumen de las actividades
